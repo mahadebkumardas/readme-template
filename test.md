@@ -141,3 +141,5 @@ Smile 😉😁
 #### CheckBox:
 - [ ] Checkbox 1
 - [x] Checkbox 2
+- [ ] Checkbox 1
+- [x] Checkbox 2
