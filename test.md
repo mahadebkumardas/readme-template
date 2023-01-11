@@ -1,6 +1,15 @@
 # Markdown Code Here
 <!--Markdown Comment-->
 
+#### Table Of Content:
+1. [Heading](#link1)
+1. [Paragraph](#link2)
+1. [In-line/Multi-Line Code](#link3)
+1. [List](#link4)
+1. [Link](#link5)
+1. [image](#link6)
+1. [Table](#link7)
+
 #### Line Break:
 Hi!<br/>
 I am Mahadeb Kumar das.  
@@ -12,6 +21,7 @@ Mahadeb Kumar Das
 ___
 
 #### Heading Tag: 
+<a name="link1"></a>
 # H1
 ## H2
 ### H3
@@ -37,13 +47,16 @@ _**Mahadeb Kumar Das**_<br/>
 ***Mahadeb Kumar Das***  
 ___Mahadeb Kumar Das___
 
+
 #### Paragraph:
+<a name="link2"></a>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem odit architecto</p><p>possimus nesciunt modi deserunt eius voluptatibus facilis alias placeat?</p>Mahadeb Kumar Das
 
 #### Underline:
 <u>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem odit architecto</u>
 
 #### In-line code block:
+<a name="link3"></a>
 `<h1>Lorem</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem odit architecto</p>`
 
 #### Multiple code block:
@@ -68,6 +81,7 @@ ___Mahadeb Kumar Das___
 >>Fifth Line
 
 #### List:
+<a name="link4"></a>
 ###### Ordered List:
 1. Item 1
 2. Item 2
@@ -93,6 +107,7 @@ ___Mahadeb Kumar Das___
    - Item 4.1
 
 #### Link:
+<a name="link5"></a>
 https://www.facebook.com
 
 [Facebook Link](https://www.facebook.com)
@@ -104,6 +119,7 @@ It is a [youtube] link
 [youtube]:https://www.facebook.com "Click here"
 
 #### Image Syntax:
+<a name="link6"></a>
 ![Image](./img/worldcup.JPG "World Cup Fixture")
 
   ##### Image link:
@@ -125,6 +141,7 @@ ___
 Smile 😉😁
 
 #### Table:
+<a name="link4"></a>
 | Name | Email |
 |------|--------|
 |Mahadeb Kumar Das|mahadeb@email.com|
@@ -145,3 +162,14 @@ Smile 😉😁
 - [x] Checkbox 2
 - [ ] Checkbox 3
 - [x] Checkbox 4
+
+#### Keyboard Button:
+To Select-> <kbd>Ctrl</kbd> + <kbd>A</kbd><br/>
+To Save-> <kbd>Ctrl</kbd> + <kbd>S</kbd>
+
+#### Badge:
+![Badge](https://img.shields.io/badge/Das-Markdown-lightgrey)
+
+#### Mention:
+@das
+
