@@ -126,7 +126,7 @@ Smile 😉😁
 | Name | Email |
 |------|--------|
 |Mahadeb Kumar Das|mahadeb@email.com|
-|Tushar Kanti Das||tushar@email.com|
+|Tushar Kanti Das|tushar@email.com|
 |Mrinal Sarkar|mrinal@email.com|
 |Mrinal Sarkar|mrinal@email.com|
 
@@ -139,7 +139,7 @@ Smile 😉😁
 </details>
 
 #### CheckBox:
-- [ ] Checkbox 1
+- [X] Checkbox 1
 - [x] Checkbox 2
-- [ ] Checkbox 1
-- [x] Checkbox 2
+- [ ] Checkbox 3
+- [x] Checkbox 4
