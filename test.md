@@ -111,8 +111,10 @@ It is a [youtube] link
 
   ##### Image Customize:
   <div align="center">
-   <img src="./img/worldcup.JPG alt="Image" height="100px" width="150px">
+   <img src="./img/worldcup.JPG" alt="Image" height="100px" width="150px">
   </div>
+
+<br/>
 
 Mahadeb Kumar Das  
 ***
